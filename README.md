@@ -9,6 +9,19 @@ Siperlik yapımında kullanılan lazer kesim ve 3D baskı dosyaları.
 
 
 
+
+## Malzemeler
+
+* 0.5 mm PetG Plaka
+* ABS veya PLA flament
+* Yatay Lastik
+* Zımba
+
+
+
+
+
+
 ## Birleştirme.
 
 
