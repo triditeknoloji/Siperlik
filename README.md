@@ -22,7 +22,7 @@ Siperlik yapımında kullanılan lazer kesim ve 3D baskı dosyaları.
 
 
 
-## Birleştirme.
+## Birleştirme
 
 
 
